@@ -1,0 +1,11 @@
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\bin\Debug\netcoreapp2.1\EvaluacionCatalina.deps.json
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\bin\Debug\netcoreapp2.1\EvaluacionCatalina.runtimeconfig.json
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\bin\Debug\netcoreapp2.1\EvaluacionCatalina.runtimeconfig.dev.json
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\bin\Debug\netcoreapp2.1\EvaluacionCatalina.dll
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\bin\Debug\netcoreapp2.1\EvaluacionCatalina.pdb
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\obj\Debug\netcoreapp2.1\EvaluacionCatalina.csprojAssemblyReference.cache
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\obj\Debug\netcoreapp2.1\EvaluacionCatalina.csproj.CoreCompileInputs.cache
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\obj\Debug\netcoreapp2.1\EvaluacionCatalina.AssemblyInfoInputs.cache
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\obj\Debug\netcoreapp2.1\EvaluacionCatalina.AssemblyInfo.cs
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\obj\Debug\netcoreapp2.1\EvaluacionCatalina.dll
+C:\Users\Janus\source\repos\EvaluacionCatalina\EvaluacionCatalina\obj\Debug\netcoreapp2.1\EvaluacionCatalina.pdb
